@@ -1,20 +1,27 @@
-# ⚗️ Atanor-Labs
+# Atanor-Labs
 
-Bienvenue dans la manufacture **Atanor-Labs**. Notre philosophie repose sur l'analogie de l'alchimie ancienne appliquée à l'ingénierie logicielle moderne. 
+[![Website](https://img.shields.io/badge/Website-atanor.dev-45E4C4?style=flat-square)](https://atanor.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Atanor_Labs-0077B5?style=flat-square)](https://www.linkedin.com/company/atanor-labs)
 
-L'**Atanor** est le fourneau des philosophes, un outil de transformation lente et maîtrisée. Chez Atanor-Labs, nous appliquons ce principe à deux piliers technologiques :
+Transformer le plomb de la complexité en l'or de la clarté.
 
-### 🔸 La Distillation de la Donnée (`atanor-distill`)
-Nous transformons la matière brute (les données volumineuses) en essence mathématique pure. Notre moteur de calcul en Rust extrait les tendances fondamentales par des méthodes statistiques rigoureuses (Régression OLS, Variance, Covariance).
+<img src="banner.png" alt="Atanor banner" style="vertical-align: middle;">
 
-### 🔹 La Purification du Code (`atanor-pure`)
-Comme l'alchimiste sépare le pur de l'impur, nos outils d'audit analysent la complexité cyclomatique et structurelle pour éliminer les scories du code source, garantissant une architecture cristalline et maintenable.
+Bienvenue dans la manufacture Atanor-Labs. Notre philosophie repose sur l'analogie de l'alchimie ancienne appliquée à l'ingénierie logicielle moderne. L'Atanor est le fourneau des philosophes : un outil de transformation lente, maîtrisée et immuable.
 
----
 
-### 🛠 Notre Forge
-* **Langage de prédilection :** Rust (pour sa stabilité thermique et sa robustesse mécanique).
-* **Approche :** Généricité totale via des traits abstraits (`IaNumber`).
-* **Origine :** Inspiré par l'excellence de l'ingénierie française et la rigueur des TP de l'IUT d'Aix-Marseille.
+## Produit Phare : `atanor-distill`
 
-"Transformer le plomb de la complexité en l'or de la clarté."
+### La Distillation de l'Architecture
+
+Plutôt qu'un simple linter, `atanor-distill` est un moteur d'audit structurel écrit en Rust. Il passe votre code source au travers de filtres mathématiques pour en extraire l'essence.
+- **Audit de Complexité** : Analyse rigoureuse de la structure et de la maintenabilité.
+- **Détection de Scories** : Identification automatique des violations architecturales.
+- **Performance Rust** : Une exécution instantanée pour des projets de grande envergure.
+
+## Nous rejoindre dans l'œuvre
+
+Le Grand Œuvre ne se fait pas seul. Suivez notre progression et accédez à nos outils :
+- Site Officiel : [atanor.dev](https://atanor.dev)
+- LinkedIn :  [Atanor Labs](https://www.linkedin.com/company/atanor-labs)
+- Contact : `contact@atanor.dev`
