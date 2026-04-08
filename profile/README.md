@@ -5,7 +5,7 @@
 
 Transformer le plomb de la complexité en l'or de la clarté.
 
-<img src="banner.png" alt="Atanor banner" style="vertical-align: middle;">
+<img src="../assets/banner.png" alt="Atanor banner" style="vertical-align: middle;">
 
 Bienvenue dans la manufacture Atanor-Labs. Notre philosophie repose sur l'analogie de l'alchimie ancienne appliquée à l'ingénierie logicielle moderne. L'Atanor est le fourneau des philosophes : un outil de transformation lente, maîtrisée et immuable.
 
